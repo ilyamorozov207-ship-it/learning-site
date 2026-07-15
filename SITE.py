@@ -15,6 +15,16 @@ HTML = """
     <p>Учебный проект на Flask</p>
 </header>
 
+
+<section style="padding:40px; text-align:center;">
+    <h2>О нас</h2>
+    <p>
+        Этот сайт создан для изучения Flask и Git.
+        Постепенно здесь будут появляться новые разделы.
+    </p>
+</section>
+
+
 </body>
 </html>
 """
