@@ -25,6 +25,36 @@ HTML = """
 </section>
 
 
+<section style="padding:40px;">
+
+<h2 align="center">Наши разделы</h2>
+
+<div style="display:flex;justify-content:space-around;flex-wrap:wrap;">
+
+<div style="width:220px;padding:20px;margin:10px;background:#eee;border-radius:10px;">
+<h3>Python</h3>
+<p>Изучение Python.</p>
+</div>
+
+<div style="width:220px;padding:20px;margin:10px;background:#eee;border-radius:10px;">
+<h3>Flask</h3>
+<p>Создание сайтов.</p>
+</div>
+
+<div style="width:220px;padding:20px;margin:10px;background:#eee;border-radius:10px;">
+<h3>Git</h3>
+<p>Контроль версий.</p>
+</div>
+
+<div style="width:220px;padding:20px;margin:10px;background:#eee;border-radius:10px;">
+<h3>GitHub</h3>
+<p>Публикация проектов.</p>
+</div>
+
+</div>
+
+</section>
+
 </body>
 </html>
 """
